@@ -1,0 +1,7 @@
+{
+  "name": "spark-internet-button",
+  "author": "Robert Poor <rdpoor@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Use the Spark Core to send an e-mail when a button is pressed or released"
+}
